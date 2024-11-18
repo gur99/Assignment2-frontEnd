@@ -23,8 +23,6 @@ body {
     height: 85px;
 }
 
-
-
 .container {
     box-sizing: border-box;
     padding: 20px;
@@ -57,7 +55,9 @@ body {
 }
 
 
-
+ul li {
+    text-align: center;
+}
 
 .box table {
     width: 100%;
@@ -98,5 +98,3 @@ ul {
     color: white;
     line-height: 24px;
 }
-
-/* #full-width p {} */
